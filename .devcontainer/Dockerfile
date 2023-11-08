@@ -1,4 +1,4 @@
-FROM hexpm/elixir:1.15.7-erlang-26.1.2-ubuntu-jammy-20230126
+FROM hexpm/elixir:1.15.7-erlang-26.1.2-debian-bookworm-20231009
 
 RUN apt update && apt upgrade -y && apt install -y git build-essential inotify-tools wget
 
