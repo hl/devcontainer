@@ -18,6 +18,5 @@
         "JakeBecker.elixir-ls"
       ]
     }
-  },
-  "postCreateCommand": ".devcontainer/bin/postCreateCommand.sh"
+  }
 }
