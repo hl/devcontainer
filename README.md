@@ -1,3 +1,3 @@
-# Devcontainer tempalte
+# Devcontainer template
 
 
